@@ -10,6 +10,6 @@ print(f"the sum of first {n} natural no is:{result}")
 or
 
 n = int(input("enter the number:"))
-c = n*n+1 / 2 ;
+c = (n*(n+1)/2);
 print("The sum of n natural no is ",c)
 
